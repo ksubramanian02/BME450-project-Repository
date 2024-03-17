@@ -1,7 +1,7 @@
 # BME450-project-Repository
 
 # Title
-Classifying Alive vs.Dead cells in Microscopic Imaging
+Classifying Alive vs. Dead cells in Microscopic Imaging
 ## Team members
 Kaushik Subramanian (ksubramanian02), Trevor Sargent (tgsargen)
 ## Project description
