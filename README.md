@@ -1,4 +1,5 @@
-# BME450-project-Repository
+# Classifying Stages of Alzheimer's Disease from MRI Scans
+
 
 # Title
 Classifying Stages of Alzheimer's Disease from MRI Scans
