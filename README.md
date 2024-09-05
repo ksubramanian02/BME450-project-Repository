@@ -1,4 +1,4 @@
-# Classifying Stages of Alzheimer's Disease from MRI Scans
+# Deep Learning Model to Detect Alzheimer's Disease
 
 
 # Title
